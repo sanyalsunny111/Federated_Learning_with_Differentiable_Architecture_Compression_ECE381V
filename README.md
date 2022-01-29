@@ -1,5 +1,5 @@
 # Federated_Learning_with_Differentiable_Architecture_Compression_ECE381V
-Hardware heterogeneity remains a huge challenge for Federated Learning. This projects tried to solve the problem hardware heterogeneity problem in FL using Differential Architecture Compression. We have developed this class project for EE381V Advanced Computer Vision taught by Prof. Atlas Wang.
+Hardware heterogeneity remains a huge challenge for Federated Learning. This project tried to solve the problem hardware heterogeneity problem in FL using Differential Architecture Compression. We have developed this class project for EE381V Advanced Computer Vision taught by Prof. Atlas Wang.
 
 # Abstract
 Despite several merits, federated learning couldn’t handle hardware heterogeneity well. Specifically, every client device has a distinct hardware configuration that differs in
